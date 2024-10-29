@@ -1,4 +1,4 @@
-# Træskibet Betty
+# UniSail / Træskibet Betty
 
 ⛵ Forening for unge/studerende i Aalborg<br>
 🌊 Sejlads i både ind- og udland<br>
